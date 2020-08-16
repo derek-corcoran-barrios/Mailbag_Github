@@ -1,0 +1,11 @@
+---
+title: "Mailbag de github"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## En este repositorio aprenderemos sobre github
+
